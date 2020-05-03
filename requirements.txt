@@ -1,0 +1,8 @@
+watchdog
+streamlit
+pandas
+matplotlib
+numpy
+ipdb
+ipython
+
